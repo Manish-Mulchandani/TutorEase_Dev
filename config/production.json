@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Fitness:manishmm@cluster0.4xjt6wd.mongodb.net/kamwale",
+    "jwtSecret": "HGHFHGKEHDKVH96"
+  }
